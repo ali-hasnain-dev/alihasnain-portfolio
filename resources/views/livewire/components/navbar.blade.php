@@ -8,7 +8,8 @@
         <div class="flex gap-4 justify-center items-center">
             <a href='{{ route('home') }}' class="text-white">Home</a>
             <a href="#about-me" class="text-white">About </a>
-            <a class="text-white">Home</a>
+            <a class="text-white">Services</a>
+            <a class="text-white">Contact</a>
         </div>
     </div>
     <div class="flex items-center gap-2">
